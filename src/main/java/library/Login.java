@@ -168,6 +168,7 @@ public class Login extends javax.swing.JFrame {
 
     private void RegisterActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_RegisterActionPerformed
         // TODO add your handling code here:
+        this.dispose();
     }//GEN-LAST:event_RegisterActionPerformed
 
     /**
